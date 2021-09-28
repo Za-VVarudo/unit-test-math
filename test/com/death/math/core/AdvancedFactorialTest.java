@@ -30,7 +30,7 @@ public class AdvancedFactorialTest {
             {3,6},
             {5,120},
             {6,720},
-            {5,120}
+            {5,1220}
         };
     }
     //End Parameters
